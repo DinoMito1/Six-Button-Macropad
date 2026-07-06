@@ -5,7 +5,7 @@
 ##### Features:
 
 ##### CAD:
-<img width="1920" height="873" alt="Image" src="https://github.com/user-attachments/assets/da0c635a-6b37-49c2-bf4c-ff5cd315cdba" />
+<img width="987" height="687" alt="Image" src="https://github.com/user-attachments/assets/4e7b12c1-54ef-4f7c-ad17-ac67fe683c9c" />
 
 ##### PCB:
   Schematic:
