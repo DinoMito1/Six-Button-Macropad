@@ -1,6 +1,6 @@
 # Six-Button-Macropad
 
-<img width="996" height="563" alt="Image" src="https://github.com/user-attachments/assets/6a9b31b2-9580-4866-a9d7-ce898b9873c6" />
+<img width="1920" height="873" alt="Image" src="https://github.com/user-attachments/assets/543939da-1f57-45a8-9c59-8d9a4f8eb529" />
 
 ##### Features:
 
