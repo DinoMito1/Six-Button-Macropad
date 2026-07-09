@@ -1,10 +1,14 @@
 # Six-Button-Macropad
 
-A simple macropad with 4 keys and a rotary encoder
+A simple macropad with 4 keys and a rotary encoder that uses KMK firmware
 
 <img width="1552" height="873" alt="Image" src="https://github.com/user-attachments/assets/abaedad7-0d3e-4c99-9165-da6212d7e490" />
 
 ## Features:
+
+  + Fully 3D printed case
+  + 6 Keys
+  + A rotary encoder
 
 ## CAD:
 <img width="987" height="687" alt="Image" src="https://github.com/user-attachments/assets/4e7b12c1-54ef-4f7c-ad17-ac67fe683c9c" />
