@@ -40,4 +40,10 @@ The six keys normally funtion as W, A, S, D, Z, and X, but they are pretty easy 
 
 ## BOM:
 Everything you'll need to make this
-  + temp
+  + 1x case (2 3D printed parts)
+  + 4x M3x5x4 heatset inserts
+  + 4x M3x16 screws
+  + 6x Cherry MX Switches
+  + 6x Cherry DSA keycaps
+  + 1x EC11 Rotary encoder
+  + 1x XIAO RP2040
